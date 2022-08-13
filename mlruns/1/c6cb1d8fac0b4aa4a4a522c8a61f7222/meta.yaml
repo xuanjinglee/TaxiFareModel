@@ -1,0 +1,15 @@
+artifact_uri: file:///home/xuanjinglee/code/xuanjinglee/TaxiFareModel/mlruns/1/c6cb1d8fac0b4aa4a4a522c8a61f7222/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c6cb1d8fac0b4aa4a4a522c8a61f7222
+run_uuid: c6cb1d8fac0b4aa4a4a522c8a61f7222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660378517141
+status: 1
+tags: []
+user_id: unknown
